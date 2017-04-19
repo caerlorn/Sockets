@@ -1,0 +1,1 @@
+A very simple implementation of Socket programming in Java just to try it out. Did both TCP and UDP.
